@@ -1,2 +1,4 @@
-pandas
+langchain[openai]
 openpyxl
+pandas
+python-dotenv
